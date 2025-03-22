@@ -8,3 +8,5 @@ Systems Performance: Enterprise and the Cloud by Brendan Gregg: This book provid
 netflix linux performance : https://netflixtechblog.com/linux-performance-analysis-in-60-000-milliseconds-accc10403c55
 
 Linux performance tools: https://netflixtechblog.com/netflix-at-velocity-2015-linux-performance-tools-51964ddb81cf
+
+https://medium.com/@furkan.turkal/how-does-docker-actually-work-the-hard-way-a-technical-deep-diving-c5b8ea2f0422
