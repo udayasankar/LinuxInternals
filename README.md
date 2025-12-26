@@ -10,3 +10,11 @@ netflix linux performance : https://netflixtechblog.com/linux-performance-analys
 Linux performance tools: https://netflixtechblog.com/netflix-at-velocity-2015-linux-performance-tools-51964ddb81cf
 
 https://medium.com/@furkan.turkal/how-does-docker-actually-work-the-hard-way-a-technical-deep-diving-c5b8ea2f0422
+
+<h1>Linux Papers</h1>
+io_uring for High-Performance DBMSs: When and How to Use It : https://arxiv.org/pdf/2512.04859
+
+Read-Copy Update : https://www.kernel.org/doc/ols/2001/read-copy.pdf
+
+Verification of the Tree-Based Hierarchical
+Read-Copy Update in the Linux Kernel : https://arxiv.org/pdf/1610.03052
